@@ -29,7 +29,7 @@
 👤 **Hussain Calcuttawala**
 
 * Github: [@hussainbadri21](https://github.com/hussainbadri21)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/hussain-mustafa\/](ww.linkedin.com\/in\/hussain-mustafa\/)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/hussain-mustafa\/](https://www.linkedin.com/in/hussain-mustafa/)
 
 ## Show your support
 
