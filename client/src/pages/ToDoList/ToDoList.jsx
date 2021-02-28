@@ -249,6 +249,19 @@ class ToDoList extends Component {
                         background: var(--bluemoon);
                       }
 
+                      @media only screen and (max-device-width: 760px) {
+                        .body-container {
+                          padding-left: 1rem;
+                          padding-right: 1rem;
+                          margin-top: 6rem;
+                        }
+
+                        .body-container .task-container {
+                          margin-left: 1rem;
+                          margin-right: 1rem;
+                        }
+
+                      }
 
                     `}
                 </style>

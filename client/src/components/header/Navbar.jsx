@@ -58,6 +58,11 @@ const Navbar = () => {
                   }
 
                   @media only screen and (max-device-width: 760px) {
+                    .navbar-container {
+                      padding-left: 1rem;
+                      padding-right: 1rem;
+                    }
+
                     .navbar-right-container {
                       margin-left: 1.5rem;
                     }
