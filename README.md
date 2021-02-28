@@ -5,7 +5,7 @@
 
 > To Do List app for adding, priortizing, updating and deleting everyday tasks.
 
-### ✨ [Demo](hussainhmc.tech)
+### 🏠 [Homepage](https://hussainhmc.tech/)
 
 ## Instructions to install dependencies for the project
 
@@ -30,7 +30,7 @@
 👤 **Hussain Calcuttawala**
 
 * Github: [@hussainbadri21](https://github.com/hussainbadri21)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/hussain-mustafa\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/hussain-mustafa\/)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/hussain-mustafa\/](https://www.linkedin.com/in/hussain-mustafa/)
 
 ## Show your support
 
